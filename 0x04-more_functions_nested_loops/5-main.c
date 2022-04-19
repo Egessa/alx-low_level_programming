@@ -1,7 +1,7 @@
-#include "betty.h"
+#include "holberton.h"
 
 /**
- * main - check the code for betty School students.
+ * main - check the code for Holberton School students.
  *
  * Return: Always 0.
  */

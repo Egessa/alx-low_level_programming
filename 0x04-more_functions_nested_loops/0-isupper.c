@@ -1,4 +1,4 @@
-#include "betty.h"
+#include "holberton.h"
 
 /**
  * _isupper - check for upper case letter
@@ -6,11 +6,8 @@
  * Return:0 or 1
  */
 
-int main()
+int _isupper(int c)
 {
-	int c ;
-	if(c == 067){
-		return (1);
-	}
-	return (0);
+	return (c >= 65 && c <= 90);
+
 }

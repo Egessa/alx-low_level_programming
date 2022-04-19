@@ -1,4 +1,4 @@
-#include "betty.h"
+#include "holberton.h"
 /**
  * print_number - prints numbers
  * @n: number to be printed

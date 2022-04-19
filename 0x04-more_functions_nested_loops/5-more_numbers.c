@@ -1,4 +1,4 @@
-#include "betty.h"
+#include "holberton.h"
 
 /**
  * more_numbers - prints more numbers
