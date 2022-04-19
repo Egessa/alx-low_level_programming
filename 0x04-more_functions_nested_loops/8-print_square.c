@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "betty.h"
 
 /**
  * print_square - check for a digit

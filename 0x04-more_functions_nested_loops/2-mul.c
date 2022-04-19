@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "betty.h"
 /**
  * mul - returns the product of its parameters
  * @a: int type number
